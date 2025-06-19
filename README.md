@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://freeimage.host/i/FoEAz9S.jpg" alt="LORD-BOBBY-Bot Logo">
+  <img src="https://i.ibb.co/2pC3PcS/ae87b2467396.jpg" alt="LORD-BOBBY-Bot Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
