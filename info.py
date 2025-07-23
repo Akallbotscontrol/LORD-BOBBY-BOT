@@ -45,7 +45,7 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002445366253')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 
 # This Is Your Bot Support Group Id , Here Bot Will Not Give File Because This Is Support Group.
-support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002482454754')
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002362957376')
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 # This Channel Is For Index Request 
@@ -89,8 +89,8 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'public_file_channel_LB
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movie_mines_group')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movie_mines_main')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'mm_discussionn') # Support Chat Link Without https:// or @
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movie_mines_update')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'AK_BOTZ_SUPPORT') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/MR_ABHAY_K')
 
 # True Or False
