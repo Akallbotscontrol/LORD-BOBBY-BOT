@@ -247,7 +247,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = f"""<b>🎬 𝐓𝐢𝐭𝐥𝐞 :</b> <a href="https://t.me/movie_mines_update">{file_name}</a>
+    CAPTION = """<b>🎬 𝐓𝐢𝐭𝐥𝐞 :</b> <a href="https://t.me/movie_mines_update">{file_name}</a>
 
 <b>📦 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞 :</b> {file_size}
 
@@ -759,6 +759,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
 
