@@ -249,7 +249,9 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/movie_mines_update">{file_name}</a></b>
 
-<b>⚙️ Sɪᴢᴇ : {file_size}</b>"""
+<b>⚙️ Sɪᴢᴇ : {file_size}</b>
+
+<b>⚡ POWERED BY ⚡: <a href="https://t.me/AK_BOTZ_UPDATE">AK BOTZ UPDATE</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -755,5 +757,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
