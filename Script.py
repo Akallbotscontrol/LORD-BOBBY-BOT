@@ -248,6 +248,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/movie_mines_update">{file_name}</a></b>
+
 <b>⚙️ Sɪᴢᴇ : {file_size}</b>"""
     
     IMDB_TEMPLATE_TXT = """
@@ -754,4 +755,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
