@@ -93,7 +93,7 @@ async def get_search_results(chat_id, query, file_type=None, max_results=10, off
         settings = await get_settings(int(chat_id))
         try:
             if settings['max_btn']:
-                max_results = 10
+                max_results = 6
             else:
                 max_results = int(MAX_B_TN)
         except KeyError:
@@ -235,4 +235,5 @@ def unpack_new_file_id(new_file_id):
     )
     file_ref = encode_file_ref(decoded.file_reference)
     return file_id, file_ref
+
 
