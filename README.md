@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iili.io/2Ml1fA7.jpg" alt="LORD-BOBBY-Bot Logo">
+  <img src="https://i.postimg.cc/05h6j3Mk/Picsart-25-08-15-22-37-02-359.png" alt="LORD-BOBBY-Bot Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
@@ -204,3 +204,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
