@@ -1,6 +1,5 @@
 <p align="center">
-<p align="center">
-  <img src="https://i.postimg.cc/rwnHKjgr/Picsart-25-08-15-23-18-51-253.png" alt="LORD-BOBBY-Bot Logo" style="max-width: 100%; max-height: 300px; object-fit: contain;">
+  <img src="https://i.postimg.cc/rwnHKjgr/Picsart-25-08-15-23-18-51-253.png" alt="LORD-BOBBY-Bot Logo" width= "450">
 </p>
 <h1 align="center">
   Lord Bobby Bot 
@@ -205,6 +204,7 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
 
 
 
